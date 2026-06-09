@@ -1,0 +1,1364 @@
+"number","opened_at","short_description","description","comments_and_work_notes","opened_by","assigned_to","priority","state","restricted","assignment_group","primary_task","sys_updated_on","sys_updated_by"
+"UR0673912","07-01-2025 10:54:58","Delete old data to free up space on DCNET SFTP server","/dev/mapper/vg_sftp-lv_sftp  1.0T  876G  149G  86% /sftp",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-01-2025 11:04:20","carson.nguyen@dc.gov"
+"UR0243859","09-19-2023 10:27:53","Software Upgrade for Ciena MCP & License Server","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-19-2023 10:33:24","carson.nguyen@dc.gov"
+"UR0681143","07-10-2025 16:24:04","FED|NEA DNS Request","Hi Carson,
+
+I have a DNS update request  for arts.gov.  Please let me know if you have any questions or need anything else.
+-------------------------------
+
+Please see below about ongoing certificate issues we're having. I'm not sure if this fits into your management flow but Forum One wanted to make sure this issue was fixed ASAP.
+
+ 
+
+If you go to this website you'll see there are two certificates: https://mxtoolbox.com/SuperTool.aspx?action=a%3aarts.gov&run=toolpage
+
+ 
+
+We need to:
+
+Remove: 40.121.221.52
+
+Keep: 3.212.25.176
+
+
+
+Syed Tahmeed Rab (Contractor)
+
+Information Technology Specialist (Contractor) | Office of Information Technology Management
+
+(202) 421-4112
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-11-2025 07:16:42","carson.nguyen@dc.gov"
+"UR0478664","10-08-2024 07:13:16","VM migration from UCS to HX.","GM Carson, once you are online we need to discuss how and when can we move the following from UCS to HX.
+1) 010-2k8-vcenter-01
+ 
+IP Addresses:
+172.30.5.53
+172.30.4.61
+10.96.17.20
+172.30.1.13
+10.82.98.254
+2) 010-DCNET-Proxy-UC
+ 
+IP Addresses:
+172.30.1.4
+172.30.4.52
+172.30.5.52
+10.83.165.211",,"Carson Nguyen","Carson Nguyen","5 - Planning","Closed","false","DC-Net Architecture-Planning","","04-24-2025 16:21:06","carson.nguyen@dc.gov"
+"UR0044487","07-05-2022 14:54:44","Provision new DIA subnet for DCHA @ DC2","Requested /27",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-05-2022 14:58:47","carson.nguyen@dc.gov"
+"UR0240772","09-14-2023 12:52:48","Update 777-ces-9606-01/02 with standard AAA & logging templates","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-14-2023 12:58:59","carson.nguyen@dc.gov"
+"UR0652040","06-05-2025 11:29:17","Case 699211740 : Cisco-hosted vBond is inaccessible after upgrade to 20.12.5","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-09-2025 11:37:22","carson.nguyen@dc.gov"
+"UR0619671","04-24-2025 16:27:13","Request for ASN: DC-Net Update: 200Mbps Internet Circuit Dept. of State TSR 24100013 ","DOS requested new BGP peering configuration",,"Carson Nguyen","Carson Nguyen","4 - Low","Closed","false","DC-Net Architecture-Planning","","04-28-2025 13:45:47","carson.nguyen@dc.gov"
+"UR0208179","07-27-2023 11:58:02","Allow Transport enginers to access Enterprise DNAC","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-27-2023 12:03:23","carson.nguyen@dc.gov"
+"UR0574300","02-27-2025 12:32:23","MPD CCTV requested live update of GPS locations from SDWAN sites ","",,"Carson Nguyen","Carson Nguyen","5 - Planning","Closed","false","DC-Net Architecture-Planning","","05-12-2025 12:30:00","carson.nguyen@dc.gov"
+"UR0124828","02-27-2023 14:13:48","Decomm DIA circuit for Center City PCS","Disconnect DIA circuits for the following sites.
+
+Congress Heights Campus
+220 Highview Place SE
+Washington DC
+
+Petworth Campus
+510 Webster St NW
+Washington DC
+
+Trinidad Campus
+1217 West Virginia Ave NE
+Washington DC
+
+Brightwood Campus
+6008 Georgia Ave NW
+Washington DC
+
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-27-2023 14:26:29","carson.nguyen@dc.gov"
+"UR0539352","01-14-2025 07:31:12","Test Verizon 5g SIM in SDWAN routers for failover setup with ATT","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-16-2025 10:04:06","carson.nguyen@dc.gov"
+"UR0334209","02-20-2024 10:03:17","Provision new DIA ckt with /30 public IP for Site 1435 ","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-20-2024 10:12:24","carson.nguyen@dc.gov"
+"UR0313376","01-16-2024 07:51:12","new ISE admin","1. Create new admin account for Fahim Moin on ENT/DCPS ISE.
+2. Send cred over TEAMS.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-16-2024 07:58:13","carson.nguyen@dc.gov"
+"UR0637919","05-19-2025 10:59:35","DC Courts - New ER request for Azure Commerical","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-19-2025 11:02:12","carson.nguyen@dc.gov"
+"UR0632189","05-12-2025 13:10:37","Retrieve inventory list for all ASR devices (9K and 1K)","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-12-2025 13:13:00","carson.nguyen@dc.gov"
+"UR0491153","10-28-2024 14:15:26","Site 1440 Wire Building MPD CCTV","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-16-2025 10:17:32","carson.nguyen@dc.gov"
+"UR0482143","10-14-2024 07:08:24","Upgrade SDWAN controllers & nodes","Upgrade all controllers to 20.12.4.
+Upgrade all nodes to 17.12.4.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-15-2024 08:00:04","carson.nguyen@dc.gov"
+"UR0521470","12-13-2024 15:33:54","New Zscaler app connector IPs need to be added to routers ACL","Hey Carson,
+
+Could you also dd the following Global Protect VPN subnets? DFS GP VPN users are not able to access. 
+
+10.82.176.0/22
+
+10.86.176.0/22",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","12-13-2024 15:42:23","carson.nguyen@dc.gov"
+"UR0663178","06-18-2025 15:58:47","Provision management port for Dell Isilon switches","010-mgt-9348-w13-01
+ports 1/15, 1/16
+vlan 602
+10.82.15.110
+10.82.15.111",,"William Shin","William Shin","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-23-2025 13:08:39","william.shin@dc.gov"
+"UR0246862","09-22-2023 10:41:23","DC ISSI connection at UCC Down","NCRnet reported ISSI connection is down at UCC. ISSI service is not activated on this link yet. No impact.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-02-2023 12:30:01","carson.nguyen@dc.gov"
+"UR0054916","08-15-2022 22:37:27","Provision new DCCAN circuits","1.	Site-478: Maya Angelou PC
+•	200M (2 IP) ... but the connection will be to our 384-3930-01.... so thinking let's take this to Site-006 (one hope)     VLAN 3682 @10 104.245.175.160/30
+
+2.	Site-384: Maya Angelou PC
+•	50M  (2 IP)... but the connection will be to our 384-3930-02.... so thinking let's take this to Site-003 or 010  -- VLAN 3686 @6 104.245.173.156/30
+
+3.	Site-60: UPO United Planning Organization (Coolidge High School)     
+•	20M (1 IP) ... can go Site-003 (one hope) or take it to 010    VLAN 3683 @10 104.245.175.164/30
+
+4.	Site-82: UPO United Planning Organization (Malcolm X Elementary)
+•	20M (1 IP) ... both legs going to 006 so let's drop this one at 006. VLAN 3684 @6 104.245.173.184/30
+
+5.	Site 243: DFS's CODIS
+•	1 IP ---- VLAN 3685 @6 104.245.173.188/30
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-18-2022 15:04:47","carson.nguyen@dc.gov"
+"UR0665602","06-23-2025 13:35:34","FED|NEA DNS Request","We are requesting an update to arts.gov.
+
+website: arts.gov
+NEW IP address: 3.212.25.176
+
+
+Syed Tahmeed Rab (Contractor)
+
+Information Technology Specialist (Contractor) | Office of Information Technology Management
+
+(202) 421-4112
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-23-2025 16:16:46","carson.nguyen@dc.gov"
+"UR0321556","01-29-2024 14:36:19","Password update for service accounts","Updated passwords for the following systems & service accounts.
+
+Enterprise ISE - svc-dnac, svc-solarwinds
+DCPS ISE - svc-dnac, svc-solarwinds
+Legacy ACS - svc-solarwinds
+Ciena MCP - svc-solarwinds",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-29-2024 14:40:00","carson.nguyen@dc.gov"
+"UR0646257","05-29-2025 14:10:21","FED|NEA DNS Request","Good afternoon sir, and thank you for your assistance. NEA urgently needs to submit the following DNS A record request to Lumen for Arts.gov, valid until 05/29/2035. I will follow up with a phone call; please let me know when Lumen can complete this request.
+
+Type: A
+Name: creativeforcesnrc
+IPv4 address: 3.212.25.176 
+TTL: Auto
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-30-2025 07:21:40","carson.nguyen@dc.gov"
+"UR0240790","09-14-2023 12:59:17","Mitigate netconf over ssh attacks on 777-isp-9606-01/02 routers","Detected failed auth attempts on 777-isp-9606-01/02 while reviewing ISE logs. Auth attempts used root credential with source IP from China.",,"Carson Nguyen","Carson Nguyen","1 - Critical","Closed","false","DC-Net Architecture-Planning","","09-14-2023 13:16:35","carson.nguyen@dc.gov"
+"UR0431471","08-05-2024 10:19:26","Decom SmartCity's DIA circuit used for NATO event 104.245.168.24/29","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-05-2024 11:23:22","carson.nguyen@dc.gov"
+"UR0639879","05-21-2025 06:51:43","FED|DOS-OIG Bandwidth issue","We're seeing issues with our internet connection bandwidth saturated at the Rosslyn, can you quickly confirm? 
+
+Dave, we would like to get a separate report from Solarwinds for today's traffic.
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-21-2025 10:19:01","carson.nguyen@dc.gov"
+"UR0687171","07-17-2025 16:26:48","MPD request - NCIC Circuit to NCRNET/AFIS","MPD has request a routing request from NCIC circuit to NCRNET/AFIS",,"William Shin","William Shin","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-16-2025 10:08:40","william.shin@dc.gov"
+"UR0648252","06-02-2025 10:32:56","FED|NEA DNS Request","Hello Carson,
+
+We need another DNS A record update for www.creativeforcesnrc.arts.gov
+Current IP:   20.141.111.28
+New IP:   3.212.25.176
+
+For your awareness, A recent change was made to    creativeforcesnrc.arts.gov
+
+PLease let us know when this is completed. Thank you
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-02-2025 11:48:12","carson.nguyen@dc.gov"
+"UR0419886","07-16-2024 12:39:22","Routing to AWS from proposed LTM network on DC1","Routing to AWS is not setup yet from proposed LTM network on DC1.
+ 
+From LTM:
+10.82.44.0/24
+10.86.44.0/24
+ 
+To AWS (10.55.0.0/20)
+ 
+Please check that routes are setup and propagated to AWS?
+implementation of LTM cutover is scheduled on 07/29.
+",,"Gourav Jain","Roberto Narvaez","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-12-2025 16:15:15","kostas.fykas@dc.gov"
+"UR0425716","07-25-2024 10:02:44","Requesting L2 Non routable VLAN in DC1 and DC2  for Palo Alto Virtual Firewalls","Need 2  Non routable VLAN in DC1 and DC2 for firewall High Availability back to back links to build high availability 
+Need to stretch 164.82.10.* vlan  in DC2 & 164.82.42.* in  DC1 to ESXi hosts,  it is required to configure external IP for VPN portals 
+
+this request need to expedite to build new VPN solution  as current Pulse Secure VPN solution is end of Support and decided to decommission by 08/15/2024. New Solution should be working in production  as soon as possible. ",,"Amit Sharma","Roberto Narvaez","1 - Critical","Closed","false","DC-Net Architecture-Planning","","05-12-2025 16:16:35","kostas.fykas@dc.gov"
+"UR0198553","07-10-2023 14:39:57","New DNAC account for Madhu (madhusudanan.perumalswamy@dc.gov(","Requested super-admin account creation for Madhu on DCPS & Enterprise DNAC.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-10-2023 14:42:00","carson.nguyen@dc.gov"
+"UR0047678","07-18-2022 14:48:16","BGP setup for HU DIA circuit","1.	remove those static routes (138.238.241.0/24 and 138.238.242.0/23)
+2.	start originating 138.238.208.0/21 (currently static-routed to 164.82.25.18)
+3.	remove the static route for 138.238.0.0/16 with next-hop 164.82.21.30 and stop originating it
+4.	set up BGP with the following settings:
+Your ASN: 33084
+Our ASN: 919
+Exported to us: default only (0.0.0.0/0)
+Imported from us: 138.238.0.0/16 le 24 (any more-specifics up to a /24)
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-25-2022 10:12:37","carson.nguyen@dc.gov"
+"UR0017425","04-08-2022 12:29:19","Port Activation Request","Can we request to activate a copper port (port #3) on our DCNET connection please? Thank you so much!",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-08-2022 13:03:01","carson.nguyen@dc.gov"
+"UR0431476","08-05-2024 10:21:49","MTIPS Splunk Reports - No data after 7/31","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-05-2024 10:58:55","carson.nguyen@dc.gov"
+"UR0474395","10-01-2024 10:38:34","BOE routing design with VZN for field devices","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-07-2024 13:41:31","carson.nguyen@dc.gov"
+"UR0131714","03-10-2023 13:53:17","Add new DC2 devices in TACACS","Device	IP Addresses
+010-APIC-L2-01	10.80.145.100
+010-APIC-L2-02	10.80.145.101
+010-APIC-L2-03	10.80.145.102
+010-LEA-93180-AA07-01	10.80.145.121
+010-LEA-93180-AA07-02	10.80.145.122
+010-LEA-93180-AA10-01	10.80.145.123
+010-LEA-93180-AA10-02	10.80.145.124
+010-LEA-93180-AA13-01	10.80.145.125
+010-LEA-93180-AA13-02	10.80.145.126
+010-BLE-9336-AE17-01 	10.80.145.171
+010-BLE-9336-AE18-01 	10.80.145.172
+010-BLE-93180-AE17-01	10.80.145.173
+010-BLE-93180-AE18-01	10.80.145.174
+010-SPN-9364-AE17-01 	10.80.145.111
+010-SPN-9364-AE18-01 	10.80.145.112
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","03-13-2023 14:18:41","carson.nguyen@dc.gov"
+"UR0698674","08-01-2025 07:38:31","FED|FLRA FW Rule Request","DCNet team,
+
+ 
+
+Please update the following FW rule for FLRA from 
+
+
+?
+FLRA_Allowed_Countries (US)
+
+63.146.3.101/32
+
+always
+
+TCP-UDP-4500
+
+ACCEPT
+
+Disabled
+
+SSL - no-inspection
+
+
+FTP 
+
+UDP-69
+UDP-1701
+UDP-8211
+
+
+To:
+
+ 
+?
+FLRA_Allowed_Countries (US)
+
+63.146.3.101/32
+
+63.146.3.102/32
+
+always
+
+TCP-UDP-4500
+
+ACCEPT
+
+Disabled
+
+SSL - no-inspection
+
+ 
+
+FTP 
+
+UDP-69
+UDP-1701
+UDP-8211
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-04-2025 07:11:05","carson.nguyen@dc.gov"
+"UR0022234","04-26-2022 12:20:00","Decomm Site 926 DIA circuits","Decomm Site 926 DIA circuits
+RP/0/RSP0/CPU0:010-sar-9010-01#sh int description | i 926
+Te0/0/1/1.3514     up          up          Site 926;Community of Hope
+Te0/0/1/1.3563     up          up          Site 926;DC Access
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-26-2022 12:21:10","carson.nguyen@dc.gov"
+"UR0267067","10-23-2023 11:13:32","Access policy for Ciena CESD","Create  read-only access to Ciena nodes for DC Network engineering and architecture team.
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-23-2023 13:54:37","carson.nguyen@dc.gov"
+"UR0022236","04-26-2022 12:21:22","Troubleshoot network issue for PRC","PRC requested assistance w/ troubleshooting network anomalies over MTIPS circuit.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-29-2022 09:31:44","carson.nguyen@dc.gov"
+"UR0026518","05-10-2022 10:05:38","Provision DIA for Site 1299 FERC HQ","Requested /30",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-10-2022 10:07:52","carson.nguyen@dc.gov"
+"UR0361446","04-04-2024 10:33:28","DHCA called & requested an emergency DHCP scope configuration for Site 1415","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-06-2024 07:32:21","carson.nguyen@dc.gov"
+"UR0547085","01-23-2025 14:29:39","Increase diskspace for UC-Proxy VM 10.83.165.211 to accommodate UC backups","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-23-2025 15:10:45","carson.nguyen@dc.gov"
+"UR0701915","08-06-2025 09:25:25","FED|MTIPS Access Request","Requested Lumen MSS for access to HUD-OIG VDOM VLAN 3809 on DCNET 3700D FW for user cnguyen.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-06-2025 13:20:01","carson.nguyen@dc.gov"
+"UR0334144","02-20-2024 09:28:24","Site#1388 (2601 Naylor Rd. SE) Previously DHS has been decom'd.","Site#1388 (2601 Naylor Rd. SE) Previously DHS has been decom'd. 
+Fiber has been terminated, and equipment has been retrieved. 
+Forwarding to respective teams to remove any programming and/or configurations. ",,"Julianna Gafar","Zakir Edris","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-01-2024 12:55:34","zakir.edris@dc.gov"
+"UR0024473","05-03-2022 13:19:51","Provision DIA for SIte 554 LAYC","Requested /30",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-03-2022 13:36:20","carson.nguyen@dc.gov"
+"UR0024480","05-03-2022 13:25:40","Provision DIA for SIte 986 DCHA Hopkins Apt","Requested /30",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-03-2022 13:35:48","carson.nguyen@dc.gov"
+"UR0058647","08-26-2022 10:30:12","Decomm Site 932 DIA circuit","Disconnect:
+Site: 2041 Georgia Avenue NW, 1st Floor Tower Building, Suite 1700C
+Services Configured: Site-932:  1 Gbps with (1) IP address
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-26-2022 10:34:17","carson.nguyen@dc.gov"
+"UR0574304","02-27-2025 12:34:14","Design/Plan/Implement/Test OUC THOR using SDWAN","",,"Carson Nguyen","Carson Nguyen","5 - Planning","Closed","false","DC-Net Architecture-Planning","","08-06-2025 13:26:33","carson.nguyen@dc.gov"
+"UR0198560","07-10-2023 14:42:50","Requested new public IPs for SBC SIP trunk with TEAMS","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-10-2023 14:46:43","carson.nguyen@dc.gov"
+"UR0352534","03-20-2024 10:45:50","Upgrade DIA to 500M for Site 149","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","03-23-2024 14:52:10","carson.nguyen@dc.gov"
+"UR0491158","10-28-2024 14:16:08","Site 1437 IMF MPD CCTV Turn up","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-16-2025 10:17:43","carson.nguyen@dc.gov"
+"UR0719322","08-26-2025 08:13:45","DCCAN | Smart City | 2001 East Capitol St SE | Bandwidth Report for 10Mbps circuit | Tina Shields, tshields@smartcity.com","Smart City requesting bandwidth report for 10Mbps circuit at Site 593 - 2001 East Capitol St SE",,"Sarah Novak","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-27-2025 11:27:57","carson.nguyen@dc.gov"
+"UR0244981","09-20-2023 11:11:45","VOIP team reported reachablity issue to NEA's DNS servers.","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-22-2023 16:04:50","carson.nguyen@dc.gov"
+"UR0349602","03-14-2024 15:08:13","Reachability from 406 VOIP test environment to NEA VOIP subnet at 777","Nasir S. reached out for reachability issue from test PC and phones to NEA servers at DC1.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","03-20-2024 10:40:32","carson.nguyen@dc.gov"
+"UR0431219","08-05-2024 06:38:24","Smart Licensing Authorization Renewal Failure","Smart Licensing Authorization Renewal Failure: Details=Could not return the certificate for the given sn (309243438) since it is REVOKED.
+Smart Licensing Id Certificate renewal failure: Details=ProductInstance '90b56734-00a1-4a10-aab1-003b12575244' is not valid.
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-08-2024 07:59:29","carson.nguyen@dc.gov"
+"UR0067808","09-19-2022 12:43:52","Decomm DIA circuit for DOS","Disconnect:
+ 
+Circuit ID: 00031226-001GINT-02
+One 1Gbps Internet Circuit to 2201 C St., NW, Washington DC
+Demarc/Switch Info: 1226-cesd-3930-02 Port #1 Copper
+WAN Subnet: 104.245.175.160/28
+Public IP Subnet: 104.245.170.32/28
+DNS: 4.2.2.2/207.126.96.248
+1G Circuit – DCNET side 104.245.170.33
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-19-2022 12:45:28","carson.nguyen@dc.gov"
+"UR0686788","07-17-2025 12:48:49","FED|DOS-OIG new BGP v6 peering","DOS-OIG requested new BGPv6 peering for their DIA circuit and advertise their own prefix/ASN.",,"Carson Nguyen","Carson Nguyen","4 - Low","Closed","false","DC-Net Architecture-Planning","","08-22-2025 17:35:17","carson.nguyen@dc.gov"
+"UR0665329","06-23-2025 11:28:00","DC CAN | SOME | 60 O St NW | Discontinue 2 Circuits | VPN200MBPS-0940-004 and  VPN500MBPS-0940-004","SOME requesting to disconnect DC-Net services at 60 O St NW, to include disconnecting (2) circuits: VPN200MBPS-0940-004 and  VPN500MBPS-0940-004.
+
+(1) INT-DCCAN-200MBPS-003
+(1) INT-DCCAN-500MBPS-003
+
+DC CAN Client: SOME (So Others Might Eat) | POC: Sam Harper / sharper@some.org | TN 202-650-0622
+===============================================================================
+Client Email
+=========
+From: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov> 
+Sent: Wednesday, June 11, 2025 3:42 PM
+To: DCNET Voice Ops. (OCTO) <dcnet.voiceops@dc.gov>; DC-Net.Intake (OCTO) <DC-Net.Intake@dc.gov>
+Cc: Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>; Sam Harper <sharper@some.org>; Velumula, Praveen K. (OCTO-Contractor) <praveen.velumula@dc.gov>
+Subject: FW: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+
+Good afternoon Voice Ops, 
+
+Mr. Sam Harper, copied here, has requested termination of all services at their 60 O Street NW (Site ID 940) location. 
+
+Can you assist?
+
+Sam Harper  
+SVP, Chief Information Officer | SOME (So Others Might Eat)
+Direct: (202) 650-0622
+Email: sharper@some.org           
+
+Thanks, 
+Teresa Ball
+DC-Net Billing
+ 
+DC-Net Business Unit
+Office of the Chief Technology Officer (OCTO)
+Government of the District of Columbia
+Desk: 202-478-5830 
+Mobile: 410-387-1654
+teresa.ball@dc.gov 
+http://octo.dc.gov
+Twitter: @OCTODC
+DC-Net Support Services: 202-715-3733 
+
+From: Sam Harper <sharper@some.org> 
+Sent: Wednesday, June 11, 2025 2:46 PM
+To: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov>
+Cc: Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>; Laura Dugger <ldugger@some.org>; Troy Swanda <tswanda@some.org>
+Subject: Re: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+
+CAUTION: This email originated from outside of the DC Government. Do not click on links or open attachments unless you recognize the sender and know that the content is safe. If you believe that this email is suspicious, please forward to phishing@dc.gov for additional analysis by OCTO Security Operations Center (SOC).
+
+Hi Teresa,
+
+We would like to exercise our opt out clause for Circuit VPN200MBPS-0940-004 and  VPN500MBPS-0940-004.  These are for 60 O Street, NW. 
+
+Please confirm receipt. 
+
+Thanks,
+
+Sam
+
+Sam Harper  
+SVP, Chief Information Officer | SOME (So Others Might Eat)
+Direct: (202) 650-0622 | www.some.org
+
+
+
+
+
+________________________________________
+From: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov>
+Sent: Tuesday, January 21, 2025 1:36 PM
+To: Sam Harper <sharper@some.org>; Laura Dugger <ldugger@some.org>
+Cc: Stephanie Brown <sbrown@some.org>; Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>
+Subject: RE: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME) 
+ 
+CAUTION: This email originated from outside your organization. Exercise caution when opening attachments or clicking links, especially from unknown senders.
+Received, thank you.
+ 
+Teresa Ball
+DC-Net Billing
+ 
+DC-Net Business Unit
+Office of the Chief Technology Officer (OCTO)
+Government of the District of Columbia
+Desk: 202-478-5830 
+Mobile: 410-387-1654
+teresa.ball@dc.gov 
+http://octo.dc.gov
+Twitter: @OCTODC
+DC-Net Support Services: 202-715-3733 
+ 
+From: Sam Harper <sharper@some.org> 
+Sent: Tuesday, January 21, 2025 1:19 PM
+To: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov>; Laura Dugger <ldugger@some.org>
+Cc: Stephanie Brown <sbrown@some.org>; Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>
+Subject: RE: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+ 
+CAUTION: This email originated from outside of the DC Government. Do not click on links or open attachments unless you recognize the sender and know that the content is safe. If you believe that this email is suspicious, please forward to phishing@dc.gov for additional analysis by OCTO Security Operations Center (SOC).
+ 
+Hi Teresa,
+ 
+Attached is the signed extension. 
+ 
+Thanks,
+Sam
+ 
+ 
+Sam Harper  
+SVP, Chief Information Officer | SOME (So Others Might Eat)
+Direct: (202) 650-0622 | www.some.org
+ 
+ 
+ 
+ 
+From: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov> 
+Sent: Tuesday, January 21, 2025 1:12 PM
+To: Sam Harper <sharper@some.org>; Laura Dugger <ldugger@some.org>
+Cc: Stephanie Brown <sbrown@some.org>; Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>
+Subject: RE: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+ 
+CAUTION: This email originated from outside your organization. Exercise caution when opening attachments or clicking links, especially from unknown senders.
+Here you go!
+ 
+Thanks, 
+Teresa Ball
+DC-Net Billing
+ 
+DC-Net Business Unit
+Office of the Chief Technology Officer (OCTO)
+Government of the District of Columbia
+Desk: 202-478-5830 
+Mobile: 410-387-1654
+teresa.ball@dc.gov 
+http://octo.dc.gov
+Twitter: @OCTODC
+DC-Net Support Services: 202-715-3733 
+ 
+From: Sam Harper <sharper@some.org> 
+Sent: Tuesday, January 21, 2025 12:50 PM
+To: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov>; Laura Dugger <ldugger@some.org>
+Cc: Stephanie Brown <sbrown@some.org>; Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>
+Subject: RE: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+ 
+CAUTION: This email originated from outside of the DC Government. Do not click on links or open attachments unless you recognize the sender and know that the content is safe. If you believe that this email is suspicious, please forward to phishing@dc.gov for additional analysis by OCTO Security Operations Center (SOC).
+ 
+Thanks Teresa,
+ 
+Can you resend the contract listing Sam Harper, CIO as the signatory?
+ 
+Thanks,
+Sam
+ 
+ 
+Sam Harper  
+SVP, Chief Information Officer | SOME (So Others Might Eat)
+Direct: (202) 650-0622 | www.some.org
+ 
+ 
+ 
+ 
+From: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov> 
+Sent: Tuesday, January 21, 2025 12:30 PM
+To: Sam Harper <sharper@some.org>; Laura Dugger <ldugger@some.org>
+Cc: Stephanie Brown <sbrown@some.org>; Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>
+Subject: RE: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+ 
+CAUTION: This email originated from outside your organization. Exercise caution when opening attachments or clicking links, especially from unknown senders.
+Sam, 
+ 
+You can cancel your service at any time. We would bill to the end of the month in which you terminated service.  
+ 
+We contractually request a 60-day notice to ensure that we can meet your requested timeline and collect the DC-Net equipment from your site.
+ 
+I would also like to share with you that we reduced the cost of Internet service for the highlighted categories:
+ 
+PRODUCT DESCRIPTION	MRC
+INTERNET 10 GBPS	$3,950.00 
+INTERNET 5 GBPS	$3,600.00 
+INTERNET 2 GBPS	$2,600.00 
+INTERNET 1 GBPS	$1,500.00 
+INTERNET 500 MBPS	$675.00 
+INTERNET 200 MBPS	Service Eliminated 
+INTERNET 100 MBPS	$350.00 
+INTERNET 50 MBPS	$335.00 
+INTERNET 20 MBPS	$265.00 
+INTERNET 10 MBPS	$235.00 
+ 
+Please let me know if you have any questions.
+ 
+Thanks, 
+Teresa Ball
+DC-Net Billing
+ 
+DC-Net Business Unit
+Office of the Chief Technology Officer (OCTO)
+Government of the District of Columbia
+Desk: 202-478-5830 
+Mobile: 410-387-1654
+teresa.ball@dc.gov 
+http://octo.dc.gov
+Twitter: @OCTODC
+DC-Net Support Services: 202-715-3733 
+ 
+From: Sam Harper <sharper@some.org> 
+Sent: Tuesday, January 21, 2025 9:32 AM
+To: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov>; Laura Dugger <ldugger@some.org>
+Cc: Stephanie Brown <sbrown@some.org>; Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>
+Subject: RE: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+ 
+CAUTION: This email originated from outside of the DC Government. Do not click on links or open attachments unless you recognize the sender and know that the content is safe. If you believe that this email is suspicious, please forward to phishing@dc.gov for additional analysis by OCTO Security Operations Center (SOC).
+ 
+Hi Teresa,
+ 
+Sorry for the double emails. 
+ 
+For the clause below – are we only on the hook for the payment through the 60 days or are we on liable for all payments through September 2025?
+ 
+Thanks,
+Sam
+ 
+ 
+B. Customer may terminate this Agreement at any time upon sixty (60) days' written notice to OCTO as specified in Article XXIII, but shall remain liable for all remaining payments through the effective date of termination. 
+ 
+ 
+Sam Harper  
+SVP, Chief Information Officer | SOME (So Others Might Eat)
+Direct: (202) 650-0622 | www.some.org
+ 
+ 
+ 
+ 
+From: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov> 
+Sent: Tuesday, January 21, 2025 8:47 AM
+To: Sam Harper <sharper@some.org>; Laura Dugger <ldugger@some.org>
+Cc: Stephanie Brown <sbrown@some.org>; Gafar, Julianna (OCTO) <julianna.gafar@dc.gov>
+Subject: RE: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+Importance: High
+ 
+CAUTION: This email originated from outside your organization. Exercise caution when opening attachments or clicking links, especially from unknown senders.
+Good morning Sam, 
+ 
+We will need the signed agreement returned to my attention by close of business today.
+ 
+Thanks, 
+Teresa Ball
+DC-Net Billing
+ 
+DC-Net Business Unit
+Office of the Chief Technology Officer (OCTO)
+Government of the District of Columbia
+Desk: 202-478-5830 
+Mobile: 410-387-1654
+teresa.ball@dc.gov 
+http://octo.dc.gov
+Twitter: @OCTODC
+DC-Net Support Services: 202-715-3733 
+ 
+From: Ball, Teresa (OCTO-Contractor) <Teresa.Ball@dc.gov> 
+Sent: Thursday, January 9, 2025 2:48 PM
+To: Sam Harper <sharper@some.org>; ldugger@some.org
+Cc: Stephanie Brown <sbrown@some.org>
+Subject: DC-NET FY25 SERVICE AGREEMENT - SIGNATURE REQUIRED: SO OTHERS MIGHT EAT (SOME)
+Importance: High
+ 
+Dear Customer, 
+ 
+Attached is a copy of the Fiscal Year 2025 contract that will require immediate attention. 
+ 
+Please sign and return the contract to my attention by close of business Wednesday, January 15, 2025.
+ 
+ 
+Thanks, 
+Teresa Ball
+DC-Net Billing
+ 
+DC-Net Business Unit
+Office of the Chief Technology Officer (OCTO)
+Government of the District of Columbia
+Desk: 202-478-5830 
+Mobile: 410-387-1654
+teresa.ball@dc.gov 
+http://octo.dc.gov
+Twitter: @OCTODC
+DC-Net Support Services: 202-715-3733 
+ 
+ 
+Having IT challenges or need to make a request? Visit octohelps.dc.gov and help yourself with over 400 self-help articles or quickly send us a service request!
+ 
+Get important updates on the 60th Presidential Inauguration from DC Government. Text DCINAUG to 888-777 for updates on public safety, street closures, weather alerts, and more. 
+ 
+ 
+Get important updates on the 60th Presidential Inauguration from DC Government. Text DCINAUG to 888-777 for updates on public safety, street closures, weather alerts, and more. 
+ 
+",,"Sarah Novak","Zakir Edris","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-26-2025 08:10:25","sarah.novak@dc.gov"
+"UR0644036","05-27-2025 13:11:15","FED|DOS-IOG Inconsistent path to youtube infrastructure","We're getting very wide rtt to youtube from our Rosslyn circuit, please take a look. I tested with ping to two resolutions for youtube.com:
+
+142.250.65.110
+
+172.253.63.190 
+The problem was apparent with the 142 path. What's interesting is that if I go through Zscaler's infrastructure instead of DCNet's internet partner backhaul, my rtt is about 7-8ms on both IP. Forgot to mention that the 142 path is about 48-50 ms through DCNet to youtube.
+
+
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-29-2025 07:40:10","carson.nguyen@dc.gov"
+"UR0244961","09-20-2023 11:03:50","Unity Healthcare - Reported Connectivity Issue","We are getting alerts regarding connectivity issues at several of our sites.  Can you tell us if there's some kind of problem?  Connectivity keeps going up and down at all of our sites.",,"Carson Nguyen","Carson Nguyen","4 - Low","Closed","false","DC-Net Architecture-Planning","","09-20-2023 13:01:06","carson.nguyen@dc.gov"
+"UR0465570","09-18-2024 10:42:27","New DIA for HUD-OIG","VLAN 3697 - 003 SAR
+104.245.168.32/27",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-18-2024 10:55:22","carson.nguyen@dc.gov"
+"UR0250491","09-27-2023 12:34:32","Allocate /29 and provision new DIA for Site 1432|FMCS","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-27-2023 12:35:10","carson.nguyen@dc.gov"
+"UR0722192","08-27-2025 19:47:10","Redeploying the ACI NDO node 010-ND-VM-03","010-ND-VM-03 is experiencing issues and need to be redeploy it.",,"Rameez Sardar","Rameez Sardar","3 - Moderate","In Progress","false","DC-Net Architecture-Planning","","08-27-2025 19:52:22","rameez.sardar@dc.gov"
+"UR0658034","06-12-2025 12:50:59","DHCF Subnet 10.87.8.0/24 Segragation","DCNET team,
+
+The current subnet assigned for DHCF is 10.87.8.0/24. We would like to segment this subnet based on environments (DEV, UAT and PROD) and want to place this subnet behind the CISCO ASA Internal Firewall.
+
+Once the above Subnet gets segmented, then we will request CWITS to provision a new Cisco ASA firewall context.
+
+On 06/25/2025, We concluded to segregate this subnet 10.87.8.0/24 subnet into 3 subnets based on environments. As per our discussion, We have decided to make this change on July-16th after 10PM EST.
+
+
+10.87.8.0/25---->   10.87.8.0-10.87.8.127         ---->Prod
+10.87.8.128/26--->	10.87.8.128-10.87.8.191--->Dev
+10.87.8.192/26--->10.83.7.192-10.87.8.255--->	UAT
+
+
+
+Thanks
+Trinadh
+
+",,"Trinadh Reddy","Rameez Sardar","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-25-2025 16:55:07","rameez.sardar@dc.gov"
+"UR0246428","09-21-2023 15:54:23","Upgrade MCP license to Plus version","Work with Ciena PS to upgrade MCP license to Plus version for more troubleshooting capabilities.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-22-2023 10:40:51","carson.nguyen@dc.gov"
+"UR0105928","01-17-2023 19:00:47","Cisco ACI SMEs need read-only access to Data center switches","Following Cisco ACI SMEs need read-only access to PEs & ACI  at DC1 and PEs & nexus switches (N7Ks, N5Ks and N9Ks) at DC2. Please see their information below.
+
+HARSHAL PRATAP SAHANE (hshahane@cisco.com) Mobile: +91 95450 15544 – username: hshahane
+ABINESH A (aarucham@cisco.com)  Mobile:  +919967745951 – username: aarucham
+
+Please let me know if you have any questions",,"Rameez Sardar","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-20-2023 13:00:48","carson.nguyen@dc.gov"
+"UR0044842","07-06-2022 13:59:19","Provision new 20M DIA for SCOTUS Giftshop","Requested /30, MM hand-off
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-06-2022 14:47:58","carson.nguyen@dc.gov"
+"UR0478333","10-07-2024 13:41:43","Route check","I noticed that one DNS server 10.86.49.15 is not reachable from 777 DC1. From subnet 10.96.18 / 255.255.255.224. Please check it out.
+
+ ",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-16-2024 21:46:09","carson.nguyen@dc.gov"
+"UR0518106","12-10-2024 12:05:28","Turn up mgmt acces for SBCs at DC1 & DC2","1. Allocate new mgmt IPs for DC1.
+2. Configure mgmt ports on 777-mgt-9348-0504-01.
+3.  Allocate new mgmt IPs & configure switch ports at DC2",,"Carson Nguyen","Carson Nguyen","4 - Low","Closed","false","DC-Net Architecture-Planning","","02-11-2025 11:13:56","carson.nguyen@dc.gov"
+"UR0253373","10-02-2023 12:30:19","Deploy new Cisco SNS-3795-K9 servers at DC1/DC2 to replace Enterprise ISE VMs","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-08-2024 07:34:19","carson.nguyen@dc.gov"
+"UR0727108","09-02-2025 11:52:31","FED|OGE FW Rule request","'-Please have the following ACL Rule removed:
+TCP Ports 4050/4070 to 64.124.134.12
+
+-Please have the following ACL Rule added: (if applicable)
+I believe we have TCP 443 outbound opened to ANY (which is accurate). However, if there are any specific rules to external destination(s), please ensure there is a rule added that allows this communication to our SIEMENS Key Fob Services:
+
+Outbound TCP 443 to 168.215.56.193, 34.219.191.10, 64.124.134.32-33
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-04-2025 07:45:15","carson.nguyen@dc.gov"
+"UR0050522","07-28-2022 12:25:22","Request to shutdown ports facing 10.86.60.181/182 at DC1","Please assist with locating 10.86.60.181/182 on DC1 ACI fabric and shut down the ports facing those servers. Thank you!",,"Carson Nguyen","Rameez Sardar","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-04-2022 00:01:49","rameez.sardar@dc.gov"
+"UR0730241","09-04-2025 09:21:31","FED|DOS-OIG Request to turn up new DIA circuit on 9th floor","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-04-2025 13:13:13","carson.nguyen@dc.gov"
+"UR0361228","04-04-2024 07:42:36","Decom HUD DIA circuits","Decom the following ckts.
+
+VID	Name	Site	Group	Prefixes	Tenant	Status	Role	Description	
+3572	3572	—	0003SAR	164.82.21.16/30	—	Active	DIA	US HUD - Wireless	
+3615	3615	—	0006SAR	164.82.25.32/30	—	Active	DIA	US HUD - Printing & Graph",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-08-2024 10:45:41","carson.nguyen@dc.gov"
+"UR0730220","09-04-2025 09:15:58","FED|FMCS Request for removal of Silverpeak appliance","Customer requested removal of Silverpeak appliance and normalize WAN set up to original state before Silverpeak was introduced.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-09-2025 11:46:46","carson.nguyen@dc.gov"
+"UR0111163","01-31-2023 10:18:06","NEA requested IPv6 allocation & routing for their DIA circuit","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-23-2023 11:43:09","carson.nguyen@dc.gov"
+"UR0574285","02-27-2025 12:26:54","Build new DMZ subnet in DC1 for DCGOV Express-E servers","",,"Carson Nguyen","Carson Nguyen","5 - Planning","Closed","false","DC-Net Architecture-Planning","","06-30-2025 11:50:13","carson.nguyen@dc.gov"
+"UR0406300","06-20-2024 14:00:12","Provision new IP block for SmartCity's 10G DIA circuit ","SmartCity requested a new 10G DIA with a /29 to support NATO submit.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-20-2024 14:20:06","carson.nguyen@dc.gov"
+"UR0052014","08-03-2022 16:06:40","DC1 Isilon Storage Data Ports Switch Configuration -  vlan 626 needs to be changed to tagged vlan which is presently native/default","Request to configure the network switches ' 777-lea-93180-0302-01' & ' 777-lea-93180-0302-02' for VLANs connected to the data ports of the Isilon
+storage system moved from ODC1 to DC1.
+Also attaching the ACI port provisioning Request form originally attached in remedy ticket",,"Dilip Vadakkoot","Rameez Sardar","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-30-2025 15:22:04","rameez.sardar@dc.gov"
+"UR0030127","05-19-2022 11:21:38","SW update for Unity sites","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-19-2022 11:22:41","carson.nguyen@dc.gov"
+"UR0312271","01-11-2024 15:18:22","Create new ISE rule/user group to allow interns update wifi maps on ENT DNAC.","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-11-2024 15:23:02","carson.nguyen@dc.gov"
+"UR0744506","09-17-2025 07:03:57","FED|EXIM Routing Issue","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-29-2025 14:25:17","carson.nguyen@dc.gov"
+"UR0072636","09-30-2022 12:07:58","Decomm Site 1169's 10G DIA circuit","Disconnect:
+00031169-10GINT 
+Subnet 166.91.2.0/27",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-30-2022 12:14:32","carson.nguyen@dc.gov"
+"UR0649829","06-03-2025 13:17:37","FED|OGE MTIPS issue","All,
+
+ 
+
+Please open a ticket with Lumens to troubleshoot communication between the following OGE and Azure Networks via the Site-To-Site Tunnel by way of Lumens/DC Net:
+
+ 
+
+10.33.11.0/24 to 10.133.40.0/24
+
+ 
+
+ 
+
+We are unable to connect to our new network file shares presented on the 10.133.40.0/24 Azure Network from 10.33.11.0/24.
+
+ 
+
+ 
+
+We have opened this traffic up via our local OGE Cisco FirePOWER Firewalls > but there is no traffic being found on the Azure side – thus we would like Lumens to verify there isn't a block on their side.
+
+ 
+
+Currently we do see an inbound and outbound allowance from 10.33.11.0/24 and 10.133.0.0/16 – but unfortunately we cannot resolve this network.
+
+ 
+
+ 
+
+Please keep Patrick in the email chain as he is our contracted POC that worked with Lumens previously to set this route up.
+
+ 
+
+ 
+
+Thanks,
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-04-2025 14:44:12","carson.nguyen@dc.gov"
+"UR0861984","02-09-2026 05:19:26","911: THOR Lost Network Connectivity","THOR has experienced loss of connectivity between THOR and UCC. The problem experienced is communication between subnets 10.70.145.254 and 10.72.244.254""
+** Saturday 2/7/26, issues generated over 11 alerts between 8:30AM to 8:31AM.",,"Selena MacArthur","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-09-2026 07:03:04","carson.nguyen@dc.gov"
+"UR0490935","10-28-2024 11:40:59","Decom INTERNET.3644 for site 1306","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-28-2024 14:14:37","carson.nguyen@dc.gov"
+"UR0015182","04-01-2022 13:31:01","GWHU Firewall Migration","Customer requested support for FW migration on 4/7 11 PM - 2 AM.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-08-2022 09:54:53","carson.nguyen@dc.gov"
+"UR0124856","02-27-2023 14:29:31","Provision new DIA circuits for DOS-OIG","Site 1311 - /27
+
+Site 0031 - /27",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","03-01-2023 15:00:43","carson.nguyen@dc.gov"
+"UR0240878","09-14-2023 13:51:12","Allocate /29 and provision new DIA for Site 1432|FMCS","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-14-2023 13:59:42","carson.nguyen@dc.gov"
+"UR0451645","08-30-2024 10:34:30","Smart Licensing Registration for Fed UC servers","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-01-2024 10:46:43","carson.nguyen@dc.gov"
+"UR0461083","09-11-2024 15:14:52","IP check","SOC requested IP check for DCCAN customers.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-18-2024 10:40:47","carson.nguyen@dc.gov"
+"UR0435332","08-09-2024 10:30:48","Issue with AAA privilege for management switches in DCs","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-30-2024 10:33:11","carson.nguyen@dc.gov"
+"UR0250440","09-27-2023 12:00:50","Upgrade backbone connection 003-PXX-9912-01 <> 010-PEX-9912-01 to 100G","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-29-2024 06:58:20","carson.nguyen@dc.gov"
+"UR0012120","03-24-2022 10:15:38","DC Preparatory Academy -Bandwidth Increase from 100MB to 200MB","When your time permits, can you please schedule a bandwidth upgrade for DC Preparatory Academy @ 701 Edgewood St NE from 100MB to 200MB.
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","INC0012745","03-30-2022 18:01:05","system"
+"UR0781242","10-28-2025 23:16:59","Smart City Service Request Changes requested by customer","Disconnect 10MBPS at 2001 East Capital Street SE.
+Reduce 1G to 10MBPS at 801 Mount Vernon Place NW
+
+",,"Nalini Rangaraju","Zakir Edris","2 - High","Closed","false","DC-Net Architecture-Planning","","11-07-2025 07:00:27","zakir.edris@dc.gov"
+"UR0173609","05-24-2023 21:07:45","Provision new DIA subnet for DCHA @ DC2","Requested /27",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Canceled","false","DC-Net Architecture-Planning","","05-24-2023 21:08:40","carson.nguyen@dc.gov"
+"UR0452235","08-30-2024 15:04:05","Site 1282 World Bank J Bldg turn up for MPD CCTV","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-16-2024 21:46:34","carson.nguyen@dc.gov"
+"UR0435321","08-09-2024 10:28:37","Connectivity issue for MPA CCTV server","Genetec server at MPA on VLAN 714-10.17.94.200/29 ip 10.17.94.203 is not able to reach two cameras on VLAN
+719-10.17.94.240/29 ips 10.17.94.243 and 10.17.94.244",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-30-2024 10:33:25","carson.nguyen@dc.gov"
+"UR0071296","09-27-2022 14:03:25","Provision new DIA for Site 1098 DCHA/ETTE Wifi","VID	Name	Site	Group	Prefixes	Tenant	Status	Role	Description	
+3687	3687	—	0006SAR	104.245.173.224/30	—	Active	DIA	Site 1098;Greenleaf Senior ETTE WIFI",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-27-2022 14:33:35","carson.nguyen@dc.gov"
+"UR0756519","09-30-2025 08:58:16","FED|OGE Wifi Guest DNS issue","Customer FED OGE reported issues with accessing Internet from Guest wifi network.",,"Carson Nguyen","Carson Nguyen","4 - Low","Closed","false","DC-Net Architecture-Planning","","10-07-2025 12:24:48","carson.nguyen@dc.gov"
+"UR0017451","04-08-2022 13:00:08","New DIA for Site 1412 Catholic Charies","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-08-2022 13:01:56","carson.nguyen@dc.gov"
+"UR0518065","12-10-2024 11:47:31","Bring up new C8200 to support MPD's command bus","8 Cisco 88xx devices
+48-port switch",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-16-2025 10:10:19","carson.nguyen@dc.gov"
+"UR0459904","09-10-2024 13:26:31","MTIPS failover test - 9/12/24  09 -11 PM","Failover testing with Lumen & all Fed customers ",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-18-2024 10:41:21","carson.nguyen@dc.gov"
+"UR0336866","02-23-2024 09:55:39","Add routes to 172.30.4.96/28 for NEA subnet at 777 for backup & proxy servers","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-23-2024 09:58:19","carson.nguyen@dc.gov"
+"UR0756855","09-30-2025 11:01:38","FED|HUD-OIG Routing change request for MTIPS circuits at DC & DENVER","I hope you're well. I wanted to follow up on BGP configuration for the MTIPS connections. As you know, we have split our BGP prefix 23.144.88.0/24 into two /25 subnets between our data centers.
+
+ 
+
+23.144.88.0/24 - Global prefix
+
+23.144.88.0/25 - DC
+
+23.144.88.128/25 - Denver
+
+ 
+
+I understand that Lumen advertises only the /24 prefix to upstream providers. However, we have successfully configured routing for each /25 subnet to access the Internet independently during the implementation. We are currently experiencing an issue with communication between our sites over MTIPS. I don't think it ever worked, as it seems that traffic intended for another site is looping between our router and the next hop (FortiGate) at both sites.
+
+ 
+
+Could you please confirm the static and BGP routes for the 23.144.88.x prefixes on the FortiGate firewalls at both sites?
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-03-2025 12:56:26","carson.nguyen@dc.gov"
+"UR0208169","07-27-2023 11:55:53","WW wants Internet service for Site-1305 … 1Gbps with 13 public IP.  ","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","07-27-2023 11:57:42","carson.nguyen@dc.gov"
+"UR0635535","05-15-2025 13:56:58","VM moves from legacy UCS to HX at DC2","010-DCNET-CienaSyslog-01
+010 UCS	
+10.83.165.18
+
+010-DCNET-Jumpbox-02	
+010 UCS	
+10.83.165.210
+
+010-DCNET-NETBOX-01	
+010 UCS	
+10.83.165.16
+
+010-DCNET-Proxy-UC	
+010 UCS	
+172.30.1.4",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-15-2025 10:45:17","carson.nguyen@dc.gov"
+"UR0758809","10-01-2025 16:10:53","Firewall request for  SFTP Access from AWS PROD","Firewall request for SFTP Access from AWS PROD",,"Gourav Jain","Roberto Narvaez","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-06-2025 22:34:55","system"
+"UR0130216","03-08-2023 13:41:21","New RO tacacs account for Nessus scanner","Challa, Kusumitha. requested new tacacs account with RO access for Nessus scanner.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","03-08-2023 14:18:26","carson.nguyen@dc.gov"
+"UR0031467","05-24-2022 08:47:31","Modify Cisco DNAC and ISE for External User Authentication","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-02-2022 09:25:38","carson.nguyen@dc.gov"
+"UR0085047","11-04-2022 15:44:51","Migartion DCHA services located at Site 400 to new DC2 data center","Migrate Internet/WAN connectivity from Site 400 to DC2 data center for DCHA.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","11-07-2022 11:36:52","carson.nguyen@dc.gov"
+"UR0647139","05-30-2025 11:19:03","FED|NEA DNS Request","Hello Carson,
+
+With John leaving the agency today, I am making a request to up the  arts.gov DNS Zone File with a TXT record update for verification purposes from  GoDaddy.
+
+Please add the following TXT records string to arts.gov
+
+""f20eblhhhjv1g18qg6g17g1n1t""
+
+
+Please let me know if you have any questions or concerns.
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-30-2025 11:29:04","carson.nguyen@dc.gov"
+"UR0242097","09-15-2023 15:44:21","New 10.56.47.32 /27 VDI subnet in Azure Gov Test Subscription","We need a new VDI subnet  10.56.47.32 /27 in Azure gov test subscription for Win10/11 workstations. Cannot find Azure category so added engineering as subcategory. Please route to DC-Net who can provision new subnet in Azure gov cloud",,"Sunil Kanna","William Shin","3 - Moderate","Closed","false","DC-Net Architecture-Planning","INC0175378","12-14-2023 16:00:01","system"
+"UR0054915","08-15-2022 22:35:27","Routing change","HU requested the static route to be removed is 138.238.208.0/21 with a next-hop of 164.82.25.18. 
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-26-2022 10:21:35","carson.nguyen@dc.gov"
+"UR0359882","04-02-2024 11:19:13","Execute MITS DR Connectivity Test  - 04/05/2024 (5.30P - 7 PM)","",,"Carson Nguyen","Carson Nguyen","2 - High","Closed","false","DC-Net Architecture-Planning","","04-05-2024 18:11:57","carson.nguyen@dc.gov"
+"UR0865131","02-11-2026 11:04:31","Please provide /24 IP range for our new vNet for DLCP Azure subscription","A new Virtual Network (vnet) for API Management (APIM) and Azure Functions to support integration and control internal and external api's and functions. ",,"Awet Sbhatu","Roberto Narvaez","1 - Critical","Closed","false","DC-Net Architecture-Planning","","04-01-2026 04:49:17","Roberto.Narvaez@dc.gov"
+"UR0541900","01-16-2025 10:04:12","Update ACLs on MPD's key servers to exclude subnets from DUI & Command bus","Exclude from encryption domain.
+10.17.115.0/24 Command Bus
+10.17.176.0/24 DUI Bus
+10.17.116.0/24 CCTV on both buses",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-16-2025 10:09:58","carson.nguyen@dc.gov"
+"UR0170773","05-19-2023 14:15:26","Update AAA passords for svc-dnac/svc-solarwinds","1. Update credential on Enterprise|DCPS|Legacy AAA systems for the following accounts.
+svc-dnac
+svc-solarwinds
+
+2. Update svc-dnac on DCPS-DNAC/DCNET-DNAC
+
+3. Update svc-solarwinds on Solarwinds/Ciena MCP.
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-24-2023 21:05:18","carson.nguyen@dc.gov"
+"UR0390408","05-23-2024 07:13:21","Add new leaf switches in Tacacs+","Add following switches in Tacacs servers.
+
+ 
+Leaf-1
+
+Leaf-2
+
+Node Name
+
+777-LEA-9348-0604-01
+
+777-LEA-9348-0605-01
+
+Node ID
+
+135
+
+136
+
+Model
+
+N9K-C9348GC-FXP
+
+N9K-C9348GC-FXP
+
+Serial
+
+FLM27130EJT
+
+FLM272001MC
+
+OOB IP
+
+10.144.145.155/24
+
+10.144.145.156/24",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-23-2024 07:27:04","carson.nguyen@dc.gov"
+"UR0025544","05-06-2022 09:34:53","Remove temp public IP subnets for GWUH","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-06-2022 10:03:18","carson.nguyen@dc.gov"
+"UR0539346","01-14-2025 07:28:40","Bring up new C8200 to support MPD's DUI bus","Needs VOIP/WIFI/DATA
+-C8200 on SDWAN
+-Temp C3850",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-23-2025 14:29:24","carson.nguyen@dc.gov"
+"UR0020184","04-19-2022 15:08:57","Troubleshoot Directory listing for EXIM phones","EXIM phones are not able to pull up Directory Listing on their phones.",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-20-2022 09:16:35","carson.nguyen@dc.gov"
+"UR0034336","06-02-2022 10:03:51","Configure DCNET ISE for APIC's External User Authentication","I had meeting with Satinder and Roberto yesterday and it was decided to use tacacs+ for authentication. I'm planning this change next week. I was advised to work with you for this integration. Here are some useful links to step-by-step guides. I will connect with you to discuss the requirements and steps tomorrow.
+
+https://howtoaci.com/2018/05/21/tacacs-configuration-in-aci/
+https://learnduty.com/tutorials/tacacs-configuration-in-aci-4-2-ise-integration/?utm_source=rss&utm_medium=rss&utm_campaign=tacacs-configuration-in-aci-4-2-ise-integration
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-07-2022 10:29:50","carson.nguyen@dc.gov"
+"UR0031248","05-23-2022 14:09:03","Maintenance for DCHA locations","Routine software maintenance for DCHA locations to address bugs/performance/security risks.
+
+Site 1037    DCHA Regional Warehouse 
+Site 400     HQ 
+Site 1001	Syphax Gardens 
+Site 998	    Regency House 
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Canceled","false","DC-Net Architecture-Planning","","05-23-2022 14:11:23","carson.nguyen@dc.gov"
+"UR0359843","04-02-2024 10:54:10","Provision new DIA for Site 1371 with /29 IP","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-02-2024 11:50:40","carson.nguyen@dc.gov"
+"UR0069007","09-21-2022 11:45:42","Decomm Site 494 DIA circuit for Event DC","Disconnect:
+
+Prefix	Status	Children	VRF	Utilization	Tenant	Site	VLAN	Role	Description	
+164.82.24.16/29	Active	0	ispx01	
+100.0%
+—	0494	3617 (3617)	DIA	EventDC-RFK
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-21-2022 11:46:31","carson.nguyen@dc.gov"
+"UR0357765","03-28-2024 14:50:32","Decom Site 1210's DIA circuit VLAN 3612","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","03-29-2024 07:15:38","carson.nguyen@dc.gov"
+"UR0243862","09-19-2023 10:29:26","Allocate /29 and provision new DIA for Site 1432|FMCS","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-19-2023 10:31:13","carson.nguyen@dc.gov"
+"UR0119663","02-15-2023 11:59:17","New TACACS account for Service Account for ACI integration with NDI and NDO at DC1","we need a service account with read/write permission for ACI at DC1 to integrate it with Nexus Dashboard Insight (NDI_. This integration is required for ACI telemetry/analytics and NDI will use this ACI account to pull telemetry data and push filters to ACI switches. Later, I will also use this account for integration with ACI Multisite Nexus Dashboard Orchestrator (NDO)",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-15-2023 12:05:04","carson.nguyen@dc.gov"
+"UR0490938","10-28-2024 11:41:28","Decom SmartCity's DIA circuit used for NATO event 104.245.168.24/29","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","10-28-2024 11:42:58","carson.nguyen@dc.gov"
+"UR0539350","01-14-2025 07:30:01","Upgrade SDWAN controllers to 20.12.4.1","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-15-2025 11:10:38","carson.nguyen@dc.gov"
+"UR0071880","09-28-2022 15:05:46","Provision new DIA circuit for Briya PCS Site 1340","Briya PCS @ 100 Gallatin Street NE (Site 1340) is requesting the following:
+
+-	(1) 100MB internet circuit 
+-	(5) Block IP's",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-28-2022 15:17:34","carson.nguyen@dc.gov"
+"UR0871085","02-18-2026 14:09:41","Requesting for DHCF new Segment for UMC(United Medical Center) Infrastructure","DCNET Team,
+
+DHCF is planning to move the UMC infrastructure behind the existing DC1-DHCF-Cisco-ASA firewall context. To support this, we need a dedicated subnet with a /28 CIDR that will be routed/placed behind the same existing DC1-DHCF-Cisco-ASA firewall context.
+
+For quick reference, below are the DHCF subnets already provisioned behind the DC1-Cisco-ASA firewall context last year.
+
+Prod: 10.87.8.0/25 ? 10.87.8.0 – 10.87.8.127
+
+Dev: 10.87.8.128/26 ? 10.87.8.128 – 10.87.8.191
+
+UAT: 10.87.8.192/26 ? 10.87.8.192 – 10.87.8.255
+
+Request: Please allocate and share a new /28 subnet for UMC behind the same firewall context, and confirm the subnet details (network, gateway, VLAN/VRF if applicable).
+
+
+
+Thanks
+Trinadh
+
+",,"Trinadh Reddy","Roberto Narvaez","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-30-2026 02:51:32","Roberto.Narvaez@dc.gov"
+"UR0313381","01-16-2024 07:54:11","Create new ISE rule/user group to allow interns update wifi maps on ENT DNAC.","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-16-2024 07:57:34","carson.nguyen@dc.gov"
+"UR0251887","09-29-2023 07:37:06","Update service account opnet's priviledge from read-only to read-write","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-29-2023 07:39:13","carson.nguyen@dc.gov"
+"UR0243872","09-19-2023 10:37:18","INC0170251 - DCCAN | DCPCA | 1620 I ST NW | BANDWIDTH UPGRADE FROM 100 MB to 500MB-","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","09-19-2023 10:40:31","carson.nguyen@dc.gov"
+"UR0924047","04-14-2026 10:33:39","CJCC Azure JUSTIS_PROD Vnets peering to OCTO Vnet","Please do the following Vnets peering to OCTO Vnet
+
+Subscription : JUSTIS_PROD
+Vnet1 : JUSTIS_PROD1_VNET
+	10.56.19.0/25
+
+Vnet2 : JUSTIS_PROD2_VNET
+	10.56.20.0/25",,"Murali R Goriparthi Chinni","Rameez Sardar","3 - Moderate","In Progress","false","DC-Net Architecture-Planning","","04-14-2026 10:37:39","muralir.goriparthichinni@dc.gov"
+"UR0352526","03-20-2024 10:40:41","Decom' DOS DIA circuit 104.245.174.36/30","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","03-20-2024 10:44:45","carson.nguyen@dc.gov"
+"UR0553333","01-31-2025 09:47:45","Reduce NEA's LAN subnet for VOIP phones to /24","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-31-2025 10:09:45","carson.nguyen@dc.gov"
+"UR0610804","04-11-2025 13:07:52","Unable to connect (10.144.163.X) & manage DC1 MPD Isilon Storage Array  (Recently moved to DC1 from UCC)","Request to ensure connectivity (from both laptop and Storage Management VMs in DC1 & DC2) and manage the DC1 MPD Isilon Storage array (10.144.163.81/10.144.163.82/10.144.163.83/10.144.163.84) recently moved last month to DC1 from UCC.  Routing rule Request form attached along.
+",,"Dilip Vadakkoot","William Shin","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-15-2025 13:44:33","william.shin@dc.gov"
+"UR0552741","01-30-2025 13:50:52","Fusus can not reach 2D 1350 PA Ave NW Wilson Bldg cameras when DC-Net WAN is up","The 2D 1350 PA Ave NW Wilson Bldg that is a Cradlepoint connected to a switch Gi1/0/21 ( switch ID ?) at the Wilson bldg.
+Using VLAN 717 10.17.94.224/29 is not reachable from Fusus.
+Fusus connects to the cameras when the Cradlepoint is using cellular 
+The Cradlepoint can not ping 10.87.58.1 over the ethernet wan connection.
+Here is a trace route:
+traceroute to 10.87.58.1 (10.87.58.1), 30 hops max, 60 byte packets                                                     
+ 1  10.17.94.230 (10.17.94.230)  0.401 ms 10.17.94.229 (10.17.94.229)  0.291 ms 10.17.94.230 (10.17.94.230)  0.351 ms   
+ 2  10.90.126.118 (10.90.126.118)  1.590 ms 10.90.126.116 (10.90.126.116)  0.692 ms 10.90.126.118 (10.90.126.118)  1.392
+ ms                                                                                                                     
+ 3  10.91.245.69 (10.91.245.69)  2.273 ms  2.214 ms  2.137 ms                                                           
+ 4  10.91.245.253 (10.91.245.253)  2.110 ms  2.041 ms  1.946 ms                                                         
+ 5  10.84.49.18 (10.84.49.18)  0.571 ms  0.499 ms  0.489 ms                                                             
+ 6  10.84.49.18 (10.84.49.18)  1.112 ms  1.270 ms  1.137 ms                                                             
+ 7  * * *                        
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-31-2025 09:47:13","carson.nguyen@dc.gov"
+"UR0637288","05-16-2025 16:00:11","Site 1176 - Routing issue for local subnet after 252 PE outage","Hello Carson
+
+You resolved by an issue yesterday by shutting down the BGP for Veritas. They have another issue that appeared to have occurred the other day...... IP - 10.31.94.133, source destination is 10.83.192.20 (DGSRSAPP01) lost it's communication also. I didn't know if BGP needed to be shut down to resolve this also.
+I can ping the IP from inside the ces but not outside of it... 1176-ces-9300-01#ping vrf osse01 10.31.94.133
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 10.31.94.133, timeout is 2 seconds:
+!!!!!",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-16-2025 16:01:47","carson.nguyen@dc.gov"
+"UR0554740","02-03-2025 12:02:25","Turn up DCHA Site 1095 ","Fiber hand-off 300M circuit
+Subnet info for this location:  10.25.0.0/16
+DHCP setting for this location:  DHCP helper : 10.1.5.107",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-06-2025 10:33:55","carson.nguyen@dc.gov"
+"UR0556549","02-05-2025 08:15:55","Migration of MPD LPR / CCTV Isilon servers from legacy switches 010-93180-F39-01 & 02 to new ACI switches at DC2 (Reston). ","Migration of MPD LPR / CCTV Isilon servers from legacy switches 010-93180-F39-01 & 02 to new ACI switches at DC2 (Reston). 
+Action Items:
+-	Ian will label the devices and provide the ports mapping.
+-	Kingsley will provide migration plan for the connection of servers to avoid disruption.
+-	Kingsley with confirm if TACSIS , MPDDRWWHDB128and MPDDRWHDB127 servers can be decommissioned
+-	Rameez will schedule MW for Wednesday 2/19
+-	As per Kingsley, DC2 is a DR site so migration will not have any production Impact. Rameez will check if the Change window can start at 7PM",,"Kingsley Ogbeide","Rameez Sardar","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-30-2025 15:22:46","rameez.sardar@dc.gov"
+"UR0574295","02-27-2025 12:30:36","OGE Wifi outage","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-27-2025 12:32:01","carson.nguyen@dc.gov"
+"UR0574240","02-27-2025 12:09:34","DOH - District of Columbia - QIES/ASPEN Database Day 2 Wrap Up","Testing/troubleshooting",,"William Shin","William Shin","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-27-2025 15:48:46","william.shin@dc.gov"
+"UR0574279","02-27-2025 12:25:32","Build new FED DMZ in DC1 for NEA Express-E server","",,"Carson Nguyen","Carson Nguyen","5 - Planning","Closed","false","DC-Net Architecture-Planning","","06-30-2025 11:49:20","carson.nguyen@dc.gov"
+"UR0574289","02-27-2025 12:28:05","Build out new pseudo-DMZ in DC1 for DCPS LTMs","",,"Carson Nguyen","Carson Nguyen","5 - Planning","Closed","false","DC-Net Architecture-Planning","","02-28-2025 11:19:56","carson.nguyen@dc.gov"
+"UR0574222","02-27-2025 12:03:49","DOH - District of Columbia QIES Database Migration - Day 1","Good morning,
+Below is the notice that went out from CMS-CO on the migration of the DC QIES  databases that underpin the ASPEN applications to the AWS cloud.
+Please be sure that the end users in the DC survey and certification office under Ranada C. are aware that access to the ASPEN products (ACO/AEM ACTS, and ePoC) will be unavailable for the two days of the migration.  Folks will still be able to use ASE-Q as it is a local application that sits on the hard drive of each laptop.
+Please ask all end users to complete their work by the end of day on Feb 24 and to not attempt to enter the database at anytime on Feb 25 & 26 until the notice that the database is back on line is forwarded from CMS-CO.
+
+In addition, we will need a few end users to be available around 9:30 on the morning of Feb 26th to assist in the testing of the new connection.  Please identify folks in Ranada's area that work from the office, remote office, or other locations so that we have a good representation of access points and can assure that the new connection is fully functional.
+
+Thanks for your patience and attention to this matter.
+Wilson Banga is the primary contact at CMS-CO for this project
+",,"William Shin","William Shin","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","02-27-2025 15:46:03","william.shin@dc.gov"
+"UR0575437","02-28-2025 11:39:01","OCTO Security team requires two subnets for each DC1 and DC2","Hi,
+
+OCTO security team is implementing layer 3 VPN feature in Zscaler. In order to accomplish this, we require two /23 subnet, one for each data centers.
+Please have the subnets routed to 10.86.128.26
+
+Please contact me if you have any questions.
+
+Thanks,",,"Donald Kim","Rameez Sardar","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-30-2025 15:23:03","rameez.sardar@dc.gov"
+"UR0583742","03-11-2025 14:04:55","Unity HC - Requested advertisement of 10.120.0.0/19 out of NJ Ave (Site 1324)","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-01-2025 13:31:18","carson.nguyen@dc.gov"
+"UR0637538","05-19-2025 07:11:25","EXIM | Our connection to our New York office is currently down ","Our connection to our New York office is currently down. The issue may be power related but we are unable to reach anyone in that office to check. I do not have circuit information but the IP of the peer address is 50.74.35.134. Are you able to check anything on DCNet's end to verify connectivity?
+Thanks.
+
+Regards, 
+John Martin
+John Martin | Sr. Network Admin (Contractor - InquisIT, LLC)
+Infrastructure Engineering and Operations Unit 
+Office of the CIO – Information Management Technology 
+Export-Import Bank of the United States
+811 Vermont Ave. NW, Office 955 | Washington, DC 20571
+Tel +1-202-565-3814 | Mobile +1-240-688-2642 | Email: john.martin.ctr@exim.gov
+",,"Wanda Delarosa","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-19-2025 11:00:34","carson.nguyen@dc.gov"
+"UR0641402","05-22-2025 10:23:54","FED|NEA DNS Request","Good morning sir.  NEA is requesting to add DNS TXT record for arts.gov, can you please submit another ticket to Lumen this time and please let me know if it is approved?
+
+openai-domain-verification=dv-8rVD1S1J7rbrnpsmloYYys6p
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-22-2025 10:29:48","carson.nguyen@dc.gov"
+"UR0611925","04-14-2025 13:39:11","BGP Peering for 00031226-200MINT-01","DOS requested to convert static routing for  00031226-200MINT-01 to BGP.
+
+ASN - 11974
+Advertised subnet – 104.245.170.144/28
+Advertise Default route only
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-14-2025 14:04:47","carson.nguyen@dc.gov"
+"UR0606823","04-08-2025 07:12:24","Circuits decom","Remove the following circuits from SAR & Netbox.
+
+
+Time	Username	Full Name	Action	Type	Object	Request ID	
+2025-04-07 11:54	cnguyen	Carson Nguyen		VLAN	3566 (3566)	004afdc6-8237-4553-ba2c-f1a89ec0f261	
+2025-04-07 11:53	cnguyen	Carson Nguyen		Prefix	164.82.18.128/28	bb4efe0d-9e56-4f8c-9519-a933d7d959ff	
+2025-04-04 16:00	cnguyen	Carson Nguyen		VLAN	3627 (3627)	dc66ab45-e0df-4e71-9302-bcbac1392eaf	
+2025-04-04 16:00	cnguyen	Carson Nguyen		Prefix	164.82.19.32/28	4b1dd22c-ea9b-44b8-a720-45bd5c652e7e	
+2025-03-28 17:12	cnguyen	Carson Nguyen		VLAN	3686 (3686)	0328907f-4c5c-43ea-a224-af82ed598d20	
+2025-03-28 17:11	cnguyen	Carson Nguyen		Prefix	104.245.173.156/30	2ec4af68-f0b6-404c-8da0-668c49d4256e	",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-08-2025 07:15:31","carson.nguyen@dc.gov"
+"UR0582567","03-10-2025 13:22:27","Migrate site 1138 - Old Post Office to SDWAN","",,"Carson Nguyen","Carson Nguyen","5 - Planning","Closed","false","DC-Net Architecture-Planning","","04-08-2025 07:16:23","carson.nguyen@dc.gov"
+"UR0610699","04-11-2025 12:09:07","IPv6 BGP peering with Zayo is down","",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-11-2025 12:11:30","carson.nguyen@dc.gov"
+"UR0609443","04-10-2025 10:06:23","OCTO-ECIS | Packet errors on DC1 ESXi hosts","We started receiving packet error alerts on DC1 ESXi hosts. Please take a look at these switches/ports:
+
+Device ID	777-LEA-93180-0108-02(FDO22292N19)
+IP address	10.88.8.161
+Port ID		Ethernet1/5
+
+Device ID	777-LEA-93180-0111-02(FDO222938UF)
+IP address	10.88.8.161
+Port ID		Ethernet1/7
+
+Device ID	777-LEA-93180-0111-02(FDO222938UF)
+IP address	10.88.8.161
+Port ID		Ethernet1/1",,"Oleg Slivin","Rameez Sardar","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","04-14-2025 12:15:29","rameez.sardar@dc.gov"
+"UR0606681","04-07-2025 16:17:14","DCNet to advertise OnPrem Subnets towards AWS","DCAS Team is requesting - 
+
+DCNet to advertise OnPrem Subnets towards AWS
+
+10.82.38.0/24
+10.87.129.0/24
+10.83.130.0/24
+10.87.130.0/24
+ 10.83.84.0/24
+ 10.83.85.0/24
+ 10.87.85.0/24 ",,"Raghuram G","Roberto Narvaez","3 - Moderate","Canceled","false","DC-Net Architecture-Planning","","04-21-2025 10:57:21","Raghuram.G2@dc.gov"
+"UR0635207","05-15-2025 11:22:59","FED|NEA DNS request","Good morning. Thank you for that key information, I need your assistance to add a TXT record to the DNS provider below for our upcoming  ChatGPT / Okta SSO integration.  Are you able to assist me with this task?
+
+
+openai-domain-verification=dv-bmxQMlANqYbqUU5aDxQUtMMZ",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-15-2025 12:51:48","carson.nguyen@dc.gov"
+"UR0635213","05-15-2025 11:24:58","FED|HUD-OIG - RFO for ETH1000-24569247 (BUF)","We had one of our remote offices go down this morning around 12:30AM and come back up at 4:57AM,  could you provide an RFO please? Site circuit ID on Subject line.
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-15-2025 12:52:57","carson.nguyen@dc.gov"
+"UR0635528","05-15-2025 13:52:50","Site 1292 - Routing issue for PSD subnet 10.33.111.80/29","Hello Carson, We have some routing issue involving 006-pxx.  Site 1292 is connected to 252-pex and 006-pex-9006-02. Since yesterday around 1:30 pm, the psd devices in site 1292 went down. It is the the same time site 252 pex came back online. Only that VRF. What could that be? Both PE are connected to 006-pxx-9912-01. 252-pex also connect to 014-pxx, dual pxx connection.
+
+1292-ces-4507-01#traceroute  vrf psdx01 10.33.115.1        
+Type escape sequence to abort.
+Tracing the route to 10.33.115.1
+VRF info: (vrf in name/id, vrf out name/id)
+  1 10.90.209.21 0 msec 0 msec 4 msec
+  2 10.91.245.65 0 msec 0 msec 4 msec
+  3 10.91.245.78 4 msec 0 msec
+    10.91.245.74 0 msec
+  4 10.91.246.154 20 msec
+    10.91.246.158 0 msec
+    10.91.246.154 0 msec
+  5 10.90.135.211 4 msec 0 msec 4 msec
+  6 10.33.115.2 0 msec 20 msec * 
+1292-ces-4507-01#traceroute  vrf psdx01            
+Protocol [ip]: 
+Target IP address: 10.33.115.1 
+Source address: 10.33.111.81 
+Numeric display [n]: 
+Resolve AS number in (G)lobal table, (V)RF or(N)one [G]: 
+Timeout in seconds [3]: 
+Probe count [3]: 
+Minimum Time to Live [1]: 
+Maximum Time to Live [30]: 
+Port Number [33434]: 
+Loose, Strict, Record, Timestamp, Verbose[none]: 
+Type escape sequence to abort.
+Tracing the route to 10.33.115.1
+VRF info: (vrf in name/id, vrf out name/id)
+  1 10.90.209.21 0 msec 0 msec 4 msec
+  2  *  *  * 
+  3  *  *  * 
+  4  *  *  * 
+  5  *  *  * 
+  6  *  *  * 
+  7  *  *  * 
+  8  *  *  * 
+  9  *  *  * 
+10  *  *  * 
+11  *  *  * 
+12  *  *  *",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-15-2025 13:55:09","carson.nguyen@dc.gov"
+"UR0827053","12-26-2025 11:13:33","CCTV networks over the Cradlepoint WAN to the new DC1 MPD Server LAN","Good morning DCNET Team,
+  Please help us verify if there is a route in place from CCTV networks over the Cradlepoint WAN (10.17.90.x to 10.17.94.x using OSPF) to the new DC1 MPD Server LAN 10.87.57.x/24.  Currently, it appears that there is no route.  This is part of the current migration of MPD UCC servers from UCC to DC1.
+
+Example below.  thank you,
+
+Source:
+10.17.39.162 over Cradlepoint router WAN 10.17.94.226 - (10.17.94.224/29)
+
+Destination:
+10.87.57.79
+ 
+Port: 443
+
+Luis Mendoza
+Technical Services Bureau
+Metropolitan Police Department (MPD)
+IT Specialist (Network Services)
+202-727-2063 Desk
+202-365-3225 Cell
+luise.mendoza@dc.gov",,"Luis Mendoza","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","01-10-2026 21:44:18","carson.nguyen@dc.gov"
+"UR0429684","08-01-2024 08:48:56","Internet connectivity at 12100 Sunrise Valley Dr. Reston VA","We're having intermittent issues with the internet in our data center at the Coresite location, 12100 Sunrise Valley Dr, Reston, VA. 
+
+William Saylors (he/him)
+Network Services Specialist
+DC Primary Care Association
+DC Connected Care Network
+1620 I St NW, Suite 300, Washington, DC 20006  
+O: 202-552-2307 | wsaylors@dcpca.org  
+Helpdesk: 202-803-1774 | DCPCA Support
+Fax: 202.638.4557  
+Facebook X/Twitter LinkedIn 
+",,"Wanda Delarosa","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-01-2024 13:35:22","carson.nguyen@dc.gov"
+"UR0429686","08-01-2024 08:51:55","EXIM | Packet loss and loss of connection | POC | Mobile +1-301-367-9481 | Email: cary.quintana.ctr@exim.gov ","It appears we are losing internet connection again upstream from our handoff to the DC-Net environment. 
+
+Our edge connection is up/up passing BGP routes,  however trace is showing a drop in return path further into the DC-Net network. 
+
+Please investigate. 
+
+Regards, 
+Cary Quintana 
+Cary Quintana | Sr. Network Admin (Contractor - InquisIT, LLC)
+Export-Import Bank of the United States
+811 Vermont Ave. NW, Office 955 | Washington, DC 20571
+Tel +1-202-565-3401 | Mobile +1-301-367-9481 | Email: cary.quintana.ctr@exim.gov 
+",,"Wanda Delarosa","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-01-2024 12:58:18","carson.nguyen@dc.gov"
+"UR0957597","05-18-2026 15:28:02","DC CAN | Whitman Walker Health  | 1201 Sycamore Drive | Activate 1 IP Address (of 13) for Cienna Device for WWH Use with Ciena Device","POC: Charles Kumah / CKumah@whitman-walker.org / WWH Main TN - 202-745-7000
+===================================================================
+Client Email
+==========
+From: Kumah, Charles <CKumah@whitman-walker.org> 
+Sent: Monday, May 18, 2026 3:25 PM
+To: DCNET Voice Ops. (OCTO) <dcnet.voiceops@dc.gov>
+Subject: Re: Open up a port
+
+CAUTION: This email originated from outside of the DC Government. Do not click on links or open attachments unless you recognize the sender and know that the content is safe. If you believe that this email is suspicious, please forward to phishing@dc.gov for additional analysis by OCTO Security Operations Center (SOC).
+
+Hello,
+
+We already have 13 IP addresses already we just need one assigned to a port on the Ciena device so we can access, 
+________________________________________
+From: DCNET Voice Ops. (OCTO) <dcnet.voiceops@dc.gov>
+Sent: Monday, May 18, 2026 3:11 PM
+To: Kumah, Charles <CKumah@whitman-walker.org>; DCNET Voice Ops. (OCTO) <dcnet.voiceops@dc.gov>
+Subject: [EXTERNAL] RE: Open up a port 
+ 
+***CAUTION: This message originated outside the organization.  Please be cautious of the contents.***
+
+________________________________________
+Good Afternoon,
+ 
+Is this to activate an existing wall plate into WWH Network -or- establish a new IP Address for WWH?
+DC NET can dispatch Tech for wall plate activation.
+New IP Address would go to DC NET Engineering.
+ 
+Either way, DC Net Support would enter a Ticket for tracking purposes.
+ 
+Please advise 
+ 
+Thanks,
+ 
+Roger Attkisson
+Telecommunications Specialist @ DC-NET
+Office of the Chief Technology Officer (OCTO) 
+Government of the District of Columbia
+Desk: 202-715-3779
+Email: roger.attkisson@dc.gov 
+DCNET Service Desk 202-715-3733
+DCNET.Voiceops@DC.Gov / OCTO@DC.Gov
+Follow: @OCTODC 
+ 
+From: Kumah, Charles <CKumah@whitman-walker.org> 
+Sent: Monday, May 18, 2026 2:49 PM
+To: DCNET Voice Ops. (OCTO) <dcnet.voiceops@dc.gov>
+Subject: Open up a port
+ 
+CAUTION: This email originated from outside of the DC Government. Do not click on links or open attachments unless you recognize the sender and know that the content is safe. If you believe that this email is suspicious, please forward to phishing@dc.gov for additional analysis by OCTO Security Operations Center (SOC).
+ 
+Hello,
+ 
+I am writing from Whitman Walker Health......I need a port open and assigned one of my public IP's on my Ciena device.  The service address is ?
+ 
+ 
+1201 Sycamore Drive
+Washington DC 20036
+ 
+ 
+Please let me know if you need any additional information to get this completed
+ 
+Thanks,
+ 
+Charles
+ 
+Disclaimer
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast, a leader in email security and cyber resilience. Mimecast integrates email defenses with brand protection, security awareness training, web security, compliance and other essential capabilities. Mimecast helps protect large and small organizations from malicious activity, human error and technology failure; and to lead the movement toward building a more resilient world. To find out more, visit our website.
+
+Having IT challenges or need to make a request? Visit octohelps.dc.gov and help yourself with over 400 self-help articles or quickly send us a service request!
+
+Disclaimer
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast, a leader in email security and cyber resilience. Mimecast integrates email defenses with brand protection, security awareness training, web security, compliance and other essential capabilities. Mimecast helps protect large and small organizations from malicious activity, human error and technology failure; and to lead the movement toward building a more resilient world. To find out more, visit our website.
+",,"Roger Attkisson","Zakir Edris","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-20-2026 10:21:45","guest"
+"UR0959832","05-20-2026 15:51:48","Provide management ports for new firepower 4225 firewalls at DC1 and DC2","CWITS is replacing the EOF FP9300 firewalls with new FP 4225 firewalls. In this regard, please provide 2 mgmt ports for each firewall totaling to 4 ports at each DC. Attached is the email communication with additional details about the switch name and rack details.",,"Hari Duddela","Rameez Sardar","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-22-2026 10:24:14","rameez.sardar@dc.gov"
+"UR0450471","08-29-2024 10:38:53","EXIM's Internet is down again","Looks like we have another Internet outage.  Very frustrating.  We are in the middle of our Sr. Staff Meeting with the Chair and the circuit went down.
+
+Regards,
+Naveed
+Chaudhry Naveed Iqbal
+Director, IT Infrastructure Engineering & Operations
+Office of the CIO, IMT/EXIM
+Export-Import Bank of the United States
+811 Vermont Ave. NW |Washington, DC  20571
+Teams/Desk: 202-987-2425, Cell: 202-731-2140
+Email: Naveed.Iqbal@exim.gov
+",,"Wanda Delarosa","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","08-30-2024 10:34:15","carson.nguyen@dc.gov"
+"UR0764356","10-08-2025 10:34:58","Rollback - UR0758809 ","Please rollback the Routing change done in UR0758809 ,remove the route to 164.82.40.249 over AWS MPD Direct connect which was done to give  SFTP access.
+
+Because of this ticket UR0758809 - we have issues with existing connection and I have updated the Route table with the Source and Destination impacted in the attached document.",,"Gourav Jain","","3 - Moderate","In Progress","false","DC-Net Architecture-Planning","","03-26-2026 14:02:57","ashokreddy.gade@dc.gov"
+"UR0619666","04-24-2025 16:24:25","MPD Helicopter Downlink Project - Circuits Activation","Support MPD's activation of Helicopter downlink circuits on 5/5 - 5/9.",,"Carson Nguyen","Carson Nguyen","5 - Planning","Closed","false","DC-Net Architecture-Planning","","05-22-2025 10:11:19","carson.nguyen@dc.gov"
+"UR0638898","05-20-2025 10:16:47","Possible upstream circuit over-utilization (DC-Net Circuits to SCOTUS)","We recently had a network casualty between our CDN and our datacenter that employs the DCNET circuit.  The description of the CE router has ""Description: to Public via DC-NET 1G 00031235-001GINT-01"" so hopefully that helps you zero in on the interface in question.
+
+ 
+
+Our CDN has gone through great pains to inform us that 10 of its parent edge servers had intermittent connectivity issues while traversing the DCNET circuit to SCOTUS during a recent oral argument.  68 were able to form some successful connection so we are confident the issue is intermittent or due to exceeding circuit capacity (not necessarily throughput related).
+
+ 
+
+Do you have any documentation or logs to suggest SLA violations, buffer overruns, drops, or rate limiting from the circuit on the following:
+
+ 
+
+Source: Internet (specifically Akamai Based subnets)
+23.195.36.242
+23.195.36.237
+23.62.45.20
+23.62.45.4
+23.221.213.161
+23.221.213.137
+23.62.155.201
+23.62.155.206
+23.62.155.197
+23.62.155.204
+Destination: 164.82.48.0/24
+164.82.48.22 and 164.82.48.150 are of most interest
+Time frame 15MAY 0900-1500 ET. 
+The most relevant frame would be between 10:45-11:10 ET.
+ 
+
+The senior IT leadership team for SCOTUS is involved with this request.  I would appreciate your groups involvement in providing us data to better determine root cause.  If a meeting makes more sense we will be happy to make time for your technical group to review any data.
+
+ 
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-27-2025 10:41:12","carson.nguyen@dc.gov"
+"UR0655463","06-10-2025 10:53:16","FED|NEH  SPF Record Modification","Good Morning Gents,
+
+   Per CISA's new requirements our SPF record must be set to be a Hard fail instead of a Soft fail. All that needs to be changed is the ""~All"" at the end of the record needs to be ""-All"" instead. IE:
+
+ 
+
+v=spf1 ip4:65.114.144.66 ip4:65.114.144.90 ip4:65.196.123.228 ip4:65.196.123.227 ip4:65.196.123.226 ip4:65.196.123.225 ip4:52.222.69.242 ip4:52.222.68.204 ip4:96.127.113.23 ip4:149.72.129.240 include:spf.congressplus.com include:spf.protection.outlook.com include:mail.zendesk.com ~all
+
+ 
+
+Should be changed to:
+
+ 
+
+v=spf1 ip4:65.114.144.66 ip4:65.114.144.90 ip4:65.196.123.228 ip4:65.196.123.227 ip4:65.196.123.226 ip4:65.196.123.225 ip4:52.222.69.242 ip4:52.222.68.204 ip4:96.127.113.23 ip4:149.72.129.240 include:spf.congressplus.com include:spf.protection.outlook.com include:mail.zendesk.com -all
+
+ 
+
+Thank you!!
+
+ 
+
+Kind Regards,
+
+ 
+
+Pete Smith
+
+IT Specialist
+
+ ",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-11-2025 13:04:59","carson.nguyen@dc.gov"
+"UR0667532","06-25-2025 07:21:13","FED|OGE DNS Request","Carson,
+
+ 
+
+Please open a ticket with LUMEN's to have them modify the following:
+
+ 
+
+FROM:
+
+ 
+
+@                                            3600             TXT     ""v=spf1 mx:oge-gov.mail.protection.outlook.com include:spf.protection.outlook.com ~all""
+
+ 
+
+ 
+
+TO:
+
+ 
+
+ 
+
+@                                            3600             TXT     ""v=spf1 mx:oge-gov.mail.protection.outlook.com include:spf.protection.outlook.com -all""
+
+ 
+
+ 
+
+--------------------------------------------------------------
+
+Tony
+
+Tony Upson, Security+
+
+Deputy Chief Information Officer for Network Operations
+
+Network Architect
+
+tupson@oge.gov
+
+",,"Carson Nguyen","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","06-25-2025 10:51:48","carson.nguyen@dc.gov"
+"UR0952593","05-13-2026 10:06:34","ARTS | update the DNS host records with the new public IP for 52.146.64.87 ? grantsearch.nea.gov •	52.146.64.87 ? apps.nea.gov | POC Syed Tahmeed Rab @ 421-4112","Hello Carson,  we need the following DNS update scheduled this evening after 4pm EDT.
+
+We need  Lumen to update the DNS host records with the new public IP for the following entries:
+•	52.146.64.87 ? grantsearch.nea.gov
+•	52.146.64.87 ? apps.nea.gov
+This change needs to be scheduled within the following window:
+After 4:00 PM EST and before 8:00 PM EST on 05/13/2026.
+Please let me know if there are any questions.
+
+Thanks
+
+Syed Tahmeed Rab (Contractor)
+Information Technology Specialist (Contractor) | Office of Information Technology Management
+(202) 421-4112
+National Endowment for the Arts
+400 7th Street SW | Washington DC 20024
+",,"Wanda Delarosa","Carson Nguyen","3 - Moderate","Closed","false","DC-Net Architecture-Planning","","05-13-2026 15:10:39","carson.nguyen@dc.gov"
+"UR0954101","05-14-2026 09:38:24","Requesting for DHCF new Segment for UMC(United Medical Center) Infrastructure","DCNET Team,
+
+DHCF is planning to move the UMC infrastructure behind the existing DC1-DHCF-Cisco-ASA firewall context. To support this, we need a dedicated subnet with a /28 CIDR that will be routed/placed behind the same existing DC1-DHCF-Cisco-ASA firewall context.
+
+For quick reference, below are the DHCF subnets already provisioned behind the DC1-Cisco-ASA firewall context last year.
+
+Prod: 10.87.8.0/25 ? 10.87.8.0 – 10.87.8.127
+
+Dev: 10.87.8.128/26 ? 10.87.8.128 – 10.87.8.191
+
+UAT: 10.87.8.192/26 ? 10.87.8.192 – 10.87.8.255
+
+Request: Please allocate and share a new /28 subnet for UMC behind the same firewall context, and confirm the subnet details (network, gateway, VLAN/VRF if applicable).
+
+
+
+Thanks
+Trinadh
+
+",,"Trinadh Reddy","Roberto Narvaez","3 - Moderate","In Progress","false","DC-Net Architecture-Planning","","05-19-2026 02:08:44","Roberto.Narvaez@dc.gov"
